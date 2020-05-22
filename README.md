@@ -1,5 +1,5 @@
 # AlgorithmsInCSharp
-A plenty of algorithms written in C# for future reference. (.NET core 3.1)
+###### A plenty of algorithms written in C# for future reference. (.NET core 3.1)
 
 ## DATA STRUCTURES
 - Singly Linked List
